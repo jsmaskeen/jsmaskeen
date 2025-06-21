@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi all!
+I'm Jaskirat.
 
-<!--
-**jsmaskeen/jsmaskeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are my GitHub stats!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsmaskeen&label=Profile%20views&color=blueviolet&style=flat" alt="jsmaskeen" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsmaskeen&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmaskeen&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jsmaskeen&theme=tokyonight" alt="jsmaskeen" /> </p>
