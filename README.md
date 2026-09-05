@@ -7,6 +7,6 @@ Here are my GitHub stats!
   <img src="https://github-readme-stats.shion.dev/api?username=jsmaskeen&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
   <br>
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jsmaskeen&hide=Jupyter%20Notebook&theme=nightowl&langs_count=5&layout=compact" alt="Top Languages" />
+  <img src="[https://github-readme-stats.shion.dev/api/top-langs/?username=jsmaskeen&hide=Jupyter%20Notebook&theme=nightowl&langs_count=5&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=jsmaskeen&hide=Jupyter%20Notebook,HTML&theme=nightowl&langs_count=5&layout=compact)" alt="Top Languages" />
 </p>
 <p align="left"> <img src="https://trophy.ryglcloud.net/?username=jsmaskeen&theme=tokyonight" alt="jsmaskeen" /> </p>
